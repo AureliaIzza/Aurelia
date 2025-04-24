@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Aurelia")
+st.title("🧸Aurelia app💗")
 st.write(
-    "selamat datang!💗"
+    "welcome!🐙" 
 )
