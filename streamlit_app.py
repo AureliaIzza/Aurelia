@@ -1,5 +1,3 @@
-import streamlit as st
-
 st.title("🧸zzaelly app")
 st.write(
     "welcome!💙" 
