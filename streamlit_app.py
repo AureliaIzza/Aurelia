@@ -3,8 +3,8 @@ st.write(
     "welcome!💙" 
 )
 st.write("\n")
-st.subheader("Aurel💗Bima")
+st.subheader("Aurel💗Heeseung")
 st.write(
-    "Bima Punya Aurel"
+    "Lee Heeseung Punya Aurel"
 )
 
